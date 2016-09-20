@@ -19,3 +19,5 @@ Here is a table of different operating systems and the companies which produce t
 | IOS           |   Apple       |
 
 This link [here leads you to the google search](http://www.google.com.gh) page.
+
+![alt text](img/me.png "My pic")
