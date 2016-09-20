@@ -4,9 +4,7 @@
 Here is a list of all my favourite programming languages.
 
 *Python
-
 *Java
-
 *PHP
 
 
