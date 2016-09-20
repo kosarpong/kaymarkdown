@@ -20,4 +20,4 @@ Here is a table of different operating systems and the companies which produce t
 
 This link [here leads you to the google search](http://www.google.com.gh) page.
 
-![alt text](img/me.png "My pic")
+![alt text](me.png "My pic")
