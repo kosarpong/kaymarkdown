@@ -22,4 +22,4 @@ This link [here leads you to the google search](http://www.google.com.gh) page.
 
 ![alt text](me.png "My pic")
 
-:-D   ;-)
+:-D:   ;-):
