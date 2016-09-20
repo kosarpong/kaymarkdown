@@ -17,3 +17,5 @@ Here is a table of different operating systems and the companies which produce t
 | Windows       |   Microsoft   |
 | Android       |   Google      |
 | IOS           |   Apple       |
+
+This link [here leads you to the google search](http://www.google.com.gh) page.
